@@ -1,0 +1,252 @@
+# 📱 LEXFAN INJECTOR - COMPLETE GUIDE
+
+> **IMPORTANT:** This injector is controlled ONLY via phone or another device. This ensures maximum stealth and security.
+
+---
+
+## 💰 PRICING & PURCHASE
+
+### Plans:
+- **1 day** — $1.10 (100₽)
+- **7 days** — $6.60 (600₽)
+- **14 days** — $12.10 (1100₽)
+
+### How to buy:
+📩 **Contact on Telegram: [@Lexfan](https://t.me/Lexfan)**
+
+After payment, you will receive a unique activation key that binds to your PC.
+
+---
+
+## 🎯 INJECTOR ADVANTAGES
+
+### ✅ Complete Stealth
+- **Phone-only control** — no traces left on PC
+- **No hotkeys** — physical keyboard blocked for critical functions
+- **Auto-hide console** — injector runs in background
+- **"Remove Traces" function** — instant deletion of all files and recycle bin cleanup
+
+### 🛡️ Maximum Security
+- **Anti-cheat bypass** — uses stealth injection methods
+- **HWID binding** — key works only on your PC
+- **Online verification** — system automatically checks license validity
+- **Remote time management** — admin can instantly revoke access
+
+### 🎮 Ease of Use
+- **Web interface** — beautiful control panel in browser
+- **Bilingual** — Russian and English interface
+- **Mobile optimized** — works perfectly on phone
+- **Automatic injection** — just select the game and go
+
+### 🔧 Flexibility & Universality
+- **Universal injector** — works with any games and DLLs
+- **Built-in DayZ cheat** — ready configuration for DayZ Standalone
+- **Constant updates** — more game cheats will be added in the future
+- **Custom injection** — use your own DLLs for any processes
+- **Quick switching** — menu, restart, panic with one button
+
+> **IMPORTANT:** This is a universal injector! Currently it has a built-in cheat for DayZ, but you can use it for any game with your own DLLs. The game database will be constantly updated!
+
+---
+
+## 📖 STEP-BY-STEP INSTRUCTIONS
+
+### Step 1: Find Your PC's IP Address
+
+#### Method 1 (Simple):
+1. On PC press `Win + R`
+2. Type `cmd` and press Enter
+3. In console type:
+   ```
+   ipconfig
+   ```
+4. Find the line **IPv4 Address** — this is your local IP
+   - Usually looks like: `192.168.1.XXX` or `10.0.0.XXX`
+
+#### Method 2 (Via Settings):
+1. Open **Windows Settings** (Win + I)
+2. Go to **Network & Internet**
+3. Click **Properties** of your network (Wi-Fi or Ethernet)
+4. Find **IPv4 address**
+
+> **Write down this IP!** You'll need it to connect from your phone.
+
+---
+
+### Step 2: Launch Injector on PC
+
+1. Run `Yandex.exe` on your computer
+2. Injector will automatically:
+   - Hide the console
+   - Start web server on port **8080**
+   - Show message: `[*] Web Controller started on http://localhost:8080`
+
+> **IMPORTANT:** Don't close the injector! It must run in background.
+
+---
+
+### Step 3: Connect from Phone
+
+1. **Make sure** phone and PC are on the same Wi-Fi network
+2. Open browser on phone (Chrome, Safari, Firefox)
+3. Enter in address bar:
+   ```
+   http://YOUR_IP:8080
+   ```
+   Example: `http://192.168.1.105:8080`
+
+4. Activation page will open
+
+---
+
+### Step 4: Activation
+
+1. On activation page enter your **license key**
+2. Click **ACTIVATE**
+3. System will verify key and bind it to your PC
+4. After successful activation page will refresh automatically
+
+> **Your HWID is displayed at the bottom of the page** — provide it to seller when purchasing a key.
+
+---
+
+### Step 5: Target Selection
+
+After activation you'll see selection page:
+
+#### Option A: DayZ Standalone (recommended)
+1. **First launch DayZ game**
+2. Click button **[0] DAYZ_STANDALONE**
+3. Injector will automatically check if game is running
+4. If game not found, warning will appear
+5. After successful selection injection will begin
+
+#### Option B: Custom Game and DLL
+1. Click **[+] CUSTOM_GAME_AND_DLL**
+2. Manual setup window will open:
+   - **Select process** from list of running programs
+   - **Select DLL** — file explorer will open on PC
+   - Click **START**
+
+---
+
+### Step 6: Control Panel
+
+After injection **control panel** will open with buttons:
+
+#### 🎮 MENU_TRIGGER
+- Opens/closes cheat menu in game
+- Equivalent to INSERT key
+
+#### 🔄 RESTART_MENU
+- Restarts cheat menu
+- Equivalent to HOME key
+
+#### ⚠️ PANIC_CLOSE
+- Sends menu close signal to game
+- Closes injector
+- **Game continues running!**
+
+#### 📱 LINK: TELEGRAM
+- Quick link to support
+
+#### 🔴 REMOVE_ALL_TRACES
+- **EMERGENCY FUNCTION**
+- Deletes injector from PC
+- Clears recycle bin
+- Use if you're called for inspection!
+
+---
+
+### Step 7: Session Information
+
+Bottom of panel displays:
+- **SESSION_TIME** — how much time left on key
+- **ACTIVE_USERS** — number of active users
+- **LINK_STABILITY** — server connection status
+
+> **Time runs constantly**, even if injector is off. This is anti-cheat protection.
+
+---
+
+## 🔐 SECURITY & TIPS
+
+### ✅ Recommendations:
+1. **Never use keyboard** to control cheat
+2. **Keep phone handy** during gameplay
+3. **Use private Wi-Fi network** (not public)
+4. **Don't share your key** — it's bound to your HWID
+5. **Save seller contact** for subscription renewal
+
+### ⚠️ If called for inspection:
+1. Quickly open panel on phone
+2. Click **REMOVE_ALL_TRACES**
+3. Confirm action
+4. Injector and all files will be deleted in 1-2 seconds
+
+### 🚫 What NOT to do:
+- ❌ Don't open web panel on PC (phone only!)
+- ❌ Don't use INSERT/HOME/END on keyboard (they're blocked)
+- ❌ Don't run injector as administrator unless necessary
+- ❌ Don't share your key with others
+
+---
+
+## 🛠️ TROUBLESHOOTING
+
+### Problem: Can't connect from phone
+**Solution:**
+1. Check that PC and phone are on same network
+2. Make sure injector is running on PC
+3. Verify IP address is correct
+4. Try temporarily disabling Windows Firewall
+5. Restart injector
+
+### Problem: "Invalid key"
+**Solution:**
+1. Check key entry is correct (copy entire key)
+2. Make sure key hasn't expired
+3. Verify key is bound to your HWID
+4. Contact seller
+
+### Problem: Game not found
+**Solution:**
+1. First launch game, then select it in injector
+2. Make sure process is named `DayZ_x64.exe`
+3. Try "Custom game and DLL" option
+
+### Problem: Menu doesn't open in game
+**Solution:**
+1. Check that injection was successful
+2. Try "RESTART" button on panel
+3. Make sure you're using correct DLL for your game version
+
+---
+
+## 📞 SUPPORT
+
+If you have questions or problems:
+
+📩 **Telegram: [@Lexfan](https://t.me/Lexfan)**
+
+Provide:
+- Your HWID (displayed on activation page)
+- Problem description
+- Error screenshot (if any)
+
+---
+
+## 📋 TECHNICAL SPECIFICATIONS
+
+- **Web server port:** 8080
+- **Supported OS:** Windows 10/11 (x64)
+- **Requirements:** .NET Framework 4.7.2+
+- **Size:** ~2 MB
+- **Injection method:** LoadLibrary + Manual Mapping
+- **Protection:** HWID Lock, Online Validation, Anti-Debug
+
+---
+
+**© 2026 LEXFAN INJECTOR - All rights reserved**
+
+*This software is for educational purposes only. Use in commercial games may violate service terms.*
